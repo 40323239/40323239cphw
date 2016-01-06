@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('My GitHub','https://github.com/40323239'),('My Vimeo','https://vimeo.com/home/myvideos'),('班級共同作業','http://2015fallhw.github.io/2015fallcadpb/category/g9.html'),
+         ('Python', 'http://python.org/'),('班級裡的個人倉儲','http://2015fallhw.github.io/2015fallcadpb/user/40323239/'),('My GitHub','https://github.com/40323239'),('My Vimeo','https://vimeo.com/home/myvideos'),('班級共同作業','http://2015fallhw.github.io/2015fallcadpb/category/g9.html'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
