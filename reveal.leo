@@ -23,7 +23,7 @@
 <v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
-<v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
+<v t="amd.20150919103341.1" a="E"><vh>Jupyter 設定</vh>
 <v t="amd.20150919103923.1"><vh>設定檔案位置</vh></v>
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
